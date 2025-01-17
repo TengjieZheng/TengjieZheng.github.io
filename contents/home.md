@@ -1,19 +1,19 @@
 
 
-[![PaoShou-China](https://img.shields.io/badge/PaoShou_China-github-blue?logo=github)](https://github.com/PaoShou-China)
+[![TengjieZheng](https://img.shields.io/badge/TengjieZheng-github-blue?logo=github)](https://github.com/TengjieZheng)
 
 He is currently pursuing a Ph.D Degree in Control Science and Engineering, at School of Astronautics, Beihang University, China.
 
 #### Email
-PaoShou@buaa.edu.cn
+TengjieZheng@buaa.edu.cn
 
 #### Acadymic Pages
-[[ORCID]](https://orcid.org/0009-0004-3153-5101)
+[[ORCID]](https://orcid.org/0009-0004-8548-5146)
 
 #### Education
-Ph.D.,  Control Science and Engineering, at School of Astronautics, Beihang University, 2023—present.\
-B.E., Aircarft Control and Information Engineering, at School of Astronautics, Beihang University, 2019—2023.
+Ph.D.,  Control Science and Engineering, at School of Astronautics, Beihang University, 2022—present.\
+B.E., Aircarft Design and Engineering, at School of Astronautics, Beihang University, 2018—2022.
 
 #### Research Interests
-Deep Reinforcement Learning, Dynamic System Idendification, Optimal Control.
+System Idendification, Adaptive Control, State Estimation.
 
